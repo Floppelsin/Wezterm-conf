@@ -1,13 +1,16 @@
 # 🟣 Wezterm-conf
+
 ### My Wezterm configuration with *catppuccin* theme
 
-# ![GitHub License](https://img.shields.io/github/license/Floppelsin/Wezterm-conf%20) ![GitHub watchers](https://img.shields.io/github/watchers/Floppelsin/Wezterm-conf) ![GitHub Repo stars](https://img.shields.io/github/stars/Floppelsin/Wezterm-conf)
+![GitHub License](https://img.shields.io/github/license/Floppelsin/Wezterm-conf%20) ![GitHub watchers](https://img.shields.io/github/watchers/Floppelsin/Wezterm-conf) ![GitHub Repo stars](https://img.shields.io/github/stars/Floppelsin/Wezterm-conf)
 
 
 
 # 💻 Preview
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1512ea65-bdad-4944-8ff6-9e8a1561edf0"/>
+</p>
 
-![wezterm-gui_KXfNyxYuXf](https://github.com/user-attachments/assets/1512ea65-bdad-4944-8ff6-9e8a1561edf0)
 
 # ⬇️ Instalation
 
