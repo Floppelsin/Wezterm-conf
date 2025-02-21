@@ -1,6 +1,7 @@
 # 🟣 Wezterm-conf
-My Wezterm configuration with *catppuccin* theme
+### My Wezterm configuration with *catppuccin* theme
 
+# ![GitHub License](https://img.shields.io/github/license/Floppelsin/Wezterm-conf%20) ![GitHub watchers](https://img.shields.io/github/watchers/Floppelsin/Wezterm-conf) ![GitHub Repo stars](https://img.shields.io/github/stars/Floppelsin/Wezterm-conf)
 
 
 
