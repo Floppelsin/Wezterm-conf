@@ -25,13 +25,14 @@ config.window_background_opacity = 0.9
 config.use_fancy_tab_bar = false
 
 config.keys = {
+
     -- Split horizontally (CTRL+SHIFT+H)
     {key="h", mods="CTRL|SHIFT", action=wezterm.action.SplitHorizontal{domain="CurrentPaneDomain"}},
     
     -- Split vertically (CTRL+SHIFT+V)
     {key="g", mods="CTRL|SHIFT", action=wezterm.action.SplitVertical{domain="CurrentPaneDomain"}},
 
-    -- Kill pane
+    -- Kill pane (CTRL+SHIFT+W)
     {key="w", mods="CTRL|SHIFT", action=wezterm.action.CloseCurrentPane{confirm=false}},
 
 
