@@ -32,6 +32,10 @@ cp .wezterm.lua $HOME
 
 3. All done!
 
+> [!IMPORTANT]
+> If you are using waylanad you may want to add *enable_wayland = false* to the config file or else wezterm might not work
+
+
 # ⌨️ Keybindings
 
 > [!NOTE]
